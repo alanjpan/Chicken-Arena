@@ -7,7 +7,7 @@ Created on Thu Oct 4 21:22:05 2018
 
 Program used for experimental study of (i) game theory, (ii) behavioral psychology, and (iii.) memory.
 
-Arguably the best test to evaluate whether a human is talking to a chicken or a machine.
+Arguably the best test to evaluate whether humans know they are talking to a chicken or a machine.
 
 Suggested citation as computer software for reference:
 Pan, Alan J. (2018). Chicken Arena [Computer software]. Github repository <https://github.com/alanjpan/Chicken-Arena>
