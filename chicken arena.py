@@ -2,7 +2,7 @@
 """
 Created on Thu Oct 4 21:22:05 2018
 
-@author: Alan Jerry Pan, CPA, CSc
+@author: Alan Jerry Pan, CPA, CSc student
 @affiliation: Shanghai Jiaotong University
 
 Program used for experimental study of (i) game theory, (ii) behavioral psychology, and (iii.) memory.
