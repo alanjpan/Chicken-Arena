@@ -1,7 +1,7 @@
 # Chicken-Arena
 experimental research tool for game theory, behavioral psychology, and memory
 
-@author: Alan Jerry Pan, CPA, CSc
+@author: Alan Jerry Pan, CPA, CSc student
 @affiliation: Shanghai Jiaotong University
 
 Program used for experimental study of (i) game theory, (ii) behavioral psychology, and (iii.) memory.
